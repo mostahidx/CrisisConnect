@@ -1,4 +1,4 @@
-# 🚨 CrisisConnect 470
+# 🚨 CrisisConnect 
 
 > Real-time disaster management and emergency coordination platform.
 > **CSE 470 Project** — Built with Next.js, Prisma, PostgreSQL (Neon), and Tailwind CSS.
